@@ -1,0 +1,84 @@
+[33mcommit ca4fc592b1b96494c8998499efca05b233a2295d[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m)[m
+Author: Yerba <zoisruggiero@hotmail.com>
+Date:   Wed Jul 24 11:04:22 2019 -0300
+
+    Commit al master del blogpost en su persion mas reciente
+
+ blogpost.html   | 13 [32m+++++++++++[m[31m--[m
+ css/estilos.css | 19 [32m+++++++++++++++++[m[31m--[m
+ 2 files changed, 28 insertions(+), 4 deletions(-)
+
+[33mcommit f8b452cd2992a766c784a7b3fad99ff41c97e72a[m
+Author: Yerba <zoisruggiero@hotmail.com>
+Date:   Mon Jul 22 10:12:14 2019 -0300
+
+    Agrego linea
+
+ historia.txt | 3 [32m++[m[31m-[m
+ 1 file changed, 2 insertions(+), 1 deletion(-)
+
+[33mcommit 1ece5e56b7ba35b6e7a0d3e574cdde8b4c8e5ba9[m
+Author: Yerba <zoisruggiero@hotmail.com>
+Date:   Mon Jul 22 10:11:37 2019 -0300
+
+    Cambio de estrato
+
+ historia.txt | 2 [32m+[m[31m-[m
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+
+[33mcommit ef09dde256b9855f5cc2173f4d486995b661e003[m
+Author: Yerba <zoisruggiero@hotmail.com>
+Date:   Mon Jul 22 10:10:40 2019 -0300
+
+    Arranco mi proyecto real con html y css
+
+ blogpost.html   | 10 [32m++++++++++[m
+ css/estilos.css |  6 [32m++++++[m
+ 2 files changed, 16 insertions(+)
+
+[33mcommit 3e04f56c1d62a7c3a331fa925222d1323184f65a[m
+Author: Yerba <zoisruggiero@hotmail.com>
+Date:   Sun Jul 21 22:45:15 2019 -0300
+
+    Borre todo porque quise y puse una boludez
+
+ historia.txt | 11 [32m+[m[31m----------[m
+ 1 file changed, 1 insertion(+), 10 deletions(-)
+
+[33mcommit 8a39a07063a894117f835168271b9e6ae2f66464[m
+Author: Yerba <zoisruggiero@hotmail.com>
+Date:   Sun Jul 21 20:35:00 2019 -0300
+
+    Agregamos el cargo de la persona
+    
+    La persona es Zois
+
+ historia.txt | 4 [32m+++[m[31m-[m
+ 1 file changed, 3 insertions(+), 1 deletion(-)
+
+[33mcommit 16ea4ad6399a62cae1fb7cc88adec544ae641022[m
+Author: Yerba <zoisruggiero@hotmail.com>
+Date:   Sun Jul 21 20:32:55 2019 -0300
+
+    Agregamos un cambio a su estatura
+
+ historia.txt | 4 [32m+++[m[31m-[m
+ 1 file changed, 3 insertions(+), 1 deletion(-)
+
+[33mcommit 897cbf8fc46b56dcb391c6c21adf1d6efe2511de[m
+Author: Yerba <zoisruggiero@hotmail.com>
+Date:   Sun Jul 21 20:24:32 2019 -0300
+
+    Cambios en el estado civil y la edad
+
+ historia.txt | 3 [32m++[m[31m-[m
+ 1 file changed, 2 insertions(+), 1 deletion(-)
+
+[33mcommit 4899af089ed6de5932bdb1388233550eb7b9d3b7[m
+Author: Yerba <zoisruggiero@hotmail.com>
+Date:   Sun Jul 21 19:59:53 2019 -0300
+
+    Este es el primer commit del primer archivo
+
+ historia.txt | 5 [32m+++++[m
+ 1 file changed, 5 insertions(+)
